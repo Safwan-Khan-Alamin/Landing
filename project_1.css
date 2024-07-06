@@ -1,0 +1,52 @@
+.flexbox{
+  display: flex;
+  background-color: #00b4d8;
+  padding: 0px 100px 100px;
+  padding-bottom: 500px;
+
+}
+.nav{
+  background-color: #03045e;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+#main{
+  background-color: #03045e;
+
+}
+body{
+  color: white;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 100px;
+}
+h2+p{
+  margin-bottom: 100px;
+}
+h3{
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+#para{
+  margin-left:  350px;
+  margin-right: 350px;
+}
+.button{
+  margin-top: 12px;
+  margin-bottom: 30px;
+  background-color: #f77f00;
+  padding: 10px 10px 10px 10px;
+  border-radius: 12px;
+
+}
+
+
+*{
+  margin: 0px 0px 0px 0px;
+
+}
